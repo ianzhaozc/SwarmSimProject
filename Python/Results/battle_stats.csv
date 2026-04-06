@@ -1,0 +1,2 @@
+episode,winner,time,attacker_alive,defender_alive,attacker_survival_rate,defender_survival_rate,attacker_total_distance,defender_total_distance
+1,Attacker Win (Entered Zone),28.26,5,5,1.0000,1.0000,2069.02,1104.28

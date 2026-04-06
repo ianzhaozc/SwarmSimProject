@@ -1,0 +1,8 @@
+# Core numeric dependency
+numpy
+
+# Optional but recommended for result plots
+matplotlib
+
+# Must be compatible with the Unity ML-Agents package used by this project
+mlagents_envs
